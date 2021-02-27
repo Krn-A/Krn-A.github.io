@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>En garde!</title>
+    <title>Schermen voor Liesbet</title>
     <link>https://Krn-A.github.io/</link>
-    <description>Recent content on En garde!</description>
+    <description>Recent content on Schermen voor Liesbet</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 12 May 2019 12:14:34 +0600</lastBuildDate>
@@ -57,6 +57,42 @@
     </item>
     
     <item>
+      <title>Artwork Design</title>
+      <link>https://Krn-A.github.io/partners/actionmaker/</link>
+      <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
+      
+      <guid>https://Krn-A.github.io/partners/actionmaker/</guid>
+      <description>Project Requirements Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>Artwork Design</title>
+      <link>https://Krn-A.github.io/partners/confrerie/</link>
+      <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
+      
+      <guid>https://Krn-A.github.io/partners/confrerie/</guid>
+      <description>Project Requirements Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>Artwork Design</title>
+      <link>https://Krn-A.github.io/partners/crig/</link>
+      <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
+      
+      <guid>https://Krn-A.github.io/partners/crig/</guid>
+      <description>Project Requirements Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>Mijn persoontje</title>
+      <link>https://Krn-A.github.io/over/fien/</link>
+      <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
+      
+      <guid>https://Krn-A.github.io/over/fien/</guid>
+      <description>Liesbet, mijn vriendinneke, mijn piepke De scouts bracht ons samen. De gastjes MOESTEN naar de scouts, willen of niet.</description>
+    </item>
+    
+    <item>
       <title>Testamonial 1</title>
       <link>https://Krn-A.github.io/testimonial/post-1/</link>
       <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
@@ -84,12 +120,12 @@
     </item>
     
     <item>
-      <title></title>
-      <link>https://Krn-A.github.io/kalender/schermmarathon/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Titel</title>
+      <link>https://Krn-A.github.io/over/devos/</link>
+      <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
       
-      <guid>https://Krn-A.github.io/kalender/schermmarathon/</guid>
-      <description></description>
+      <guid>https://Krn-A.github.io/over/devos/</guid>
+      <description>Titel Hier komt de tekst</description>
     </item>
     
   </channel>
