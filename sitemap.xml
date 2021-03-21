@@ -118,11 +118,6 @@
   </url>
   
   <url>
-    <loc>https://Krn-A.github.io/timeline/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://Krn-A.github.io/categories/</loc>
   </url>
   
@@ -136,6 +131,10 @@
   
   <url>
     <loc>https://Krn-A.github.io/hoe-steunen/</loc>
+  </url>
+  
+  <url>
+    <loc>https://Krn-A.github.io/timeline/</loc>
   </url>
   
   <url>
