@@ -58,6 +58,11 @@
   </url>
   
   <url>
+    <loc>https://Krn-A.github.io/over/devos/</loc>
+    <lastmod>2019-05-12T12:14:34+06:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://Krn-A.github.io/over/fien/</loc>
     <lastmod>2019-05-12T12:14:34+06:00</lastmod>
   </url>
@@ -83,27 +88,7 @@
   </url>
   
   <url>
-    <loc>https://Krn-A.github.io/testimonial/post-1/</loc>
-    <lastmod>2019-05-12T12:14:34+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://Krn-A.github.io/testimonial/post-2/</loc>
-    <lastmod>2019-05-12T12:14:34+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://Krn-A.github.io/testimonial/post-3/</loc>
-    <lastmod>2019-05-12T12:14:34+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://Krn-A.github.io/testimonial/</loc>
-    <lastmod>2019-05-12T12:14:34+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://Krn-A.github.io/over/devos/</loc>
+    <loc>https://Krn-A.github.io/partners/vaneeckhout/</loc>
     <lastmod>2019-05-12T12:14:34+06:00</lastmod>
   </url>
   
@@ -139,6 +124,10 @@
   
   <url>
     <loc>https://Krn-A.github.io/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>https://Krn-A.github.io/testimonial/</loc>
   </url>
   
 </urlset>

@@ -6,37 +6,9 @@
     <description>Recent content in Testimonial on Schermen voor Liesbet</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 12 May 2019 12:14:34 +0600</lastBuildDate>
     
 	<atom:link href="https://Krn-A.github.io/testimonial/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Testamonial 1</title>
-      <link>https://Krn-A.github.io/testimonial/post-1/</link>
-      <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
-      
-      <guid>https://Krn-A.github.io/testimonial/post-1/</guid>
-      <description>Eerste testamonial&amp;hellip;</description>
-    </item>
-    
-    <item>
-      <title>Testamonial 2</title>
-      <link>https://Krn-A.github.io/testimonial/post-2/</link>
-      <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
-      
-      <guid>https://Krn-A.github.io/testimonial/post-2/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Testamonial 3</title>
-      <link>https://Krn-A.github.io/testimonial/post-3/</link>
-      <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
-      
-      <guid>https://Krn-A.github.io/testimonial/post-3/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
     
   </channel>
 </rss>
